@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2220cd803445234882d2dd937d6e2860",
+    "revision": "89b911307371015ff2bcd7fd1f89a4f4",
     "url": "/demo-social-network/index.html"
   },
   {
-    "revision": "f1f52d444eb84701393d",
+    "revision": "8177f902ccc62361bbee",
     "url": "/demo-social-network/static/css/3.87e07cd0.chunk.css"
   },
   {
-    "revision": "e76ab84be69ddd6fa3b9",
+    "revision": "b726db85bc672b044102",
     "url": "/demo-social-network/static/css/4.b35d9207.chunk.css"
   },
   {
-    "revision": "71aeb8f4c59032917d47",
+    "revision": "dadeb82281f17d6e9e7b",
     "url": "/demo-social-network/static/css/main.ca626003.chunk.css"
   },
   {
-    "revision": "5ff27d262b1afa40ec37",
-    "url": "/demo-social-network/static/js/2.6bb4f5d4.chunk.js"
+    "revision": "0dde7154a875f09fded0",
+    "url": "/demo-social-network/static/js/2.1f70da51.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/demo-social-network/static/js/2.6bb4f5d4.chunk.js.LICENSE.txt"
+    "url": "/demo-social-network/static/js/2.1f70da51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1f52d444eb84701393d",
-    "url": "/demo-social-network/static/js/3.8014a9c8.chunk.js"
+    "revision": "8177f902ccc62361bbee",
+    "url": "/demo-social-network/static/js/3.139ae528.chunk.js"
   },
   {
-    "revision": "e76ab84be69ddd6fa3b9",
-    "url": "/demo-social-network/static/js/4.7ea1a40a.chunk.js"
+    "revision": "b726db85bc672b044102",
+    "url": "/demo-social-network/static/js/4.7809464b.chunk.js"
   },
   {
-    "revision": "71aeb8f4c59032917d47",
-    "url": "/demo-social-network/static/js/main.6a4c4f7d.chunk.js"
+    "revision": "dadeb82281f17d6e9e7b",
+    "url": "/demo-social-network/static/js/main.4377b68f.chunk.js"
   },
   {
-    "revision": "0c232c98ea31b5d6150d",
-    "url": "/demo-social-network/static/js/runtime-main.46ec77e8.js"
+    "revision": "3cf27d3a2cc51733b07f",
+    "url": "/demo-social-network/static/js/runtime-main.ff36e535.js"
   },
   {
     "revision": "769ff97112b93d6194c0169a512efd76",
