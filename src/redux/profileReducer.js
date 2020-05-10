@@ -15,7 +15,7 @@ let initialState = {
             profile: null,
             status: ''
 };
-// мы получаем в state = state.profilePage, т.к приходит только необходимый state, а не весь
+
  const profileReducer = (state = initialState, action) => {
     switch(action.type) {
         case ADD_POST: 
