@@ -47,7 +47,7 @@ class App extends React.Component {
                }}/>
           <Route path="/dialogs" render={ () => {
           return <Suspense fallback={<div>Loading...</div>}>
-                    <DialogsContainer /> } />
+                    <DialogsContainer /> }
                     </Suspense>
             }}/>
           <Route path="/users" render={ () => <UsersContainer /> } />
@@ -60,7 +60,7 @@ class App extends React.Component {
         </div>
        
       </div>
-    // </BrowserRouter>
+    
    );
   }
 }
