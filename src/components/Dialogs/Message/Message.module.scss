@@ -1,0 +1,15 @@
+.message {
+    width: 200px;
+    height: 80px;
+    border: 1px solid brown;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+
+    &:nth-child(2n) {
+        justify-self: end;
+    }
+
+   
+   
+}

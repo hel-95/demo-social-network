@@ -1,0 +1,6 @@
+.content {
+  grid-area: c;
+}
+.content__image {
+  width: 85%;
+}

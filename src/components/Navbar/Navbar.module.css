@@ -1,0 +1,48 @@
+nav {
+  background-color: #f9f9ff;
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: "Rubik", sans-serif;
+  border-right: solid 8px grey;
+  grid-row: 1 / -1;
+}
+.nav {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-auto-rows: 55px;
+  margin-top: 25%;
+  justify-items: first baseline;
+  margin-left: 25px;
+  grid-area: n;
+}
+.item {
+  text-decoration: none;
+  color: #353353;
+  width: 90%;
+  border-bottom: 1px dashed #353353;
+  outline: none;
+  transition: color 0.2s ease;
+}
+.item i {
+  margin-right: 15px;
+  color: #2bde73;
+}
+.active {
+  color: #2bde73;
+}
+.friendBlock {
+  margin-top: 15px;
+}
+.friendsList {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 0px;
+  padding-right: 25px;
+  font-family: "Rubik", sans-serif;
+}
+.header {
+  text-align: center;
+  color: #353353;
+  margin-right: 25px;
+}

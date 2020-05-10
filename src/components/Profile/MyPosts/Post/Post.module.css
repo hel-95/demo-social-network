@@ -1,0 +1,11 @@
+.item {
+  color: blueviolet;
+  border: 1px dashed greenyellow;
+}
+.item img {
+  width: 60px;
+  border-radius: 50px;
+}
+.item span {
+  display: block;
+}

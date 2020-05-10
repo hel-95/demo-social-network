@@ -1,0 +1,10 @@
+.MyPosts {
+  padding: 20px;
+}
+.MyPosts textarea {
+  display: block;
+  padding-bottom: 10px;
+}
+.MyPosts .posts {
+  margin-top: 20px;
+}

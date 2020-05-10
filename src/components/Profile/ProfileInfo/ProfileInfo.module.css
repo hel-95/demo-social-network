@@ -1,0 +1,24 @@
+.profile {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.profile .container {
+  margin-left: 25px;
+}
+.profile .fullName {
+  display: block;
+  font-family: "Rubik", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #888;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+.profile p {
+  display: block;
+}
+.profile .icon {
+  width: 150px;
+  display: block;
+}

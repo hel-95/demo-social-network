@@ -1,0 +1,23 @@
+.friend {
+  margin-right: 15px;
+}
+.friend:nth-child(3) {
+  margin-right: 0px;
+}
+.friend .friendItem {
+  display: inline;
+  margin-right: 10px;
+  color: #000;
+}
+.friend .friendItem span {
+  display: block;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.friend .icon {
+  width: 60px;
+  display: block;
+  border-radius: 50px;
+  margin-bottom: 5px;
+}
