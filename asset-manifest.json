@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/demo-social-network/static/css/main.ca626003.chunk.css",
+    "main.js": "/demo-social-network/static/js/main.d590a3fc.chunk.js",
+    "main.js.map": "/demo-social-network/static/js/main.d590a3fc.chunk.js.map",
+    "runtime-main.js": "/demo-social-network/static/js/runtime-main.46ec77e8.js",
+    "runtime-main.js.map": "/demo-social-network/static/js/runtime-main.46ec77e8.js.map",
+    "static/js/2.6bb4f5d4.chunk.js": "/demo-social-network/static/js/2.6bb4f5d4.chunk.js",
+    "static/js/2.6bb4f5d4.chunk.js.map": "/demo-social-network/static/js/2.6bb4f5d4.chunk.js.map",
+    "static/css/3.87e07cd0.chunk.css": "/demo-social-network/static/css/3.87e07cd0.chunk.css",
+    "static/js/3.8014a9c8.chunk.js": "/demo-social-network/static/js/3.8014a9c8.chunk.js",
+    "static/js/3.8014a9c8.chunk.js.map": "/demo-social-network/static/js/3.8014a9c8.chunk.js.map",
+    "static/css/4.b35d9207.chunk.css": "/demo-social-network/static/css/4.b35d9207.chunk.css",
+    "static/js/4.7ea1a40a.chunk.js": "/demo-social-network/static/js/4.7ea1a40a.chunk.js",
+    "static/js/4.7ea1a40a.chunk.js.map": "/demo-social-network/static/js/4.7ea1a40a.chunk.js.map",
+    "index.html": "/demo-social-network/index.html",
+    "precache-manifest.73787e519fccef3b0e31d266d0227383.js": "/demo-social-network/precache-manifest.73787e519fccef3b0e31d266d0227383.js",
+    "service-worker.js": "/demo-social-network/service-worker.js",
+    "static/css/3.87e07cd0.chunk.css.map": "/demo-social-network/static/css/3.87e07cd0.chunk.css.map",
+    "static/css/4.b35d9207.chunk.css.map": "/demo-social-network/static/css/4.b35d9207.chunk.css.map",
+    "static/css/main.ca626003.chunk.css.map": "/demo-social-network/static/css/main.ca626003.chunk.css.map",
+    "static/js/2.6bb4f5d4.chunk.js.LICENSE.txt": "/demo-social-network/static/js/2.6bb4f5d4.chunk.js.LICENSE.txt",
+    "static/media/friend.png": "/demo-social-network/static/media/friend.769ff971.png",
+    "static/media/preloader.svg": "/demo-social-network/static/media/preloader.7c60c684.svg",
+    "static/media/samurai.png": "/demo-social-network/static/media/samurai.6879220b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46ec77e8.js",
+    "static/js/2.6bb4f5d4.chunk.js",
+    "static/css/main.ca626003.chunk.css",
+    "static/js/main.d590a3fc.chunk.js"
+  ]
+}
